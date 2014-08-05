@@ -1,5 +1,7 @@
 # Event Starter Kit
 
+![Logo](assets/Logo gray.png)
+
 Event Starter Kit (ESK from now on) is born out of the **[Web European Conference](http://webnextconf.eu)** by [Ugo Lattanzi](http://tostring.it) and [Simone Chiaretta](http://codeclimber.net.nz/).
 
 
@@ -81,10 +83,10 @@ Unfortunately, right now ESK is not ready except for the launch page and the blo
 
 Contact [Ugo Lattanzi](http://tostring.it) or [Simone Chiaretta](http://codeclimber.net.nz/) or create a PR for one of our repositories:
 
-* [Launch page](https://github.com/Web-European-Conference/lauch-site) **
-* [Blog](https://github.com/Web-European-Conference/blog) **
-* [Website](https://github.com/Web-European-Conference/website)
-* [Mobile](https://github.com/Web-European-Conference/xamarin-mobile-app)
+* [Launch page](https://github.com/Event-Starter-Kit/lauch-site)
+* [Blog](https://github.com/Event-Starter-Kit/blog)
+* [Website](https://github.com/Event-Starter-Kit/website)
+* [Mobile](https://github.com/Event-Starter-Kit/xamarin-mobile-app)
 
 We bought the HTML template from [themeforest.net](themeforest.net) so you have to buy the license (less than $20 USD) or replace the HTML with your own.
 
