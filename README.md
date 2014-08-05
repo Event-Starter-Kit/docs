@@ -1,6 +1,6 @@
 # Event Starter Kit
 
-![Logo](assets/Logo gray.png)
+![Logo](assets/Logo-gray-small.png)
 
 Event Starter Kit (ESK from now on) is born out of the **[Web European Conference](http://webnextconf.eu)** by [Ugo Lattanzi](http://tostring.it) and [Simone Chiaretta](http://codeclimber.net.nz/).
 
